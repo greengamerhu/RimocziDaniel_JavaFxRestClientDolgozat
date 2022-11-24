@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b1285bc-abf1-49f6-8711-539e35a1057e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/AutoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/InsertCarsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/RequestHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/UpdateCarsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/auto-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/insert-cars-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/update-cars-view.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HzvTJLUx1qX39oA2HlqcDFS8Fn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/rimoc/IdeaProjects/RimocziDaniel_JavaFxRestClientDolgozat/src/main/resources/hu/petrik/rimoczidaniel_javafxrestclientdolgozat",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.4770115",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rimoc\IdeaProjects\RimocziDaniel_JavaFxRestClientDolgozat\src\main\resources\hu\petrik\rimoczidaniel_javafxrestclientdolgozat" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hu.petrik.rimoczidaniel_javafxrestclientdolgozat.App" />
+      <module name="RimocziDaniel_JavaFxRestClientDolgozat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hu.petrik.rimoczidaniel_javafxrestclientdolgozat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b1285bc-abf1-49f6-8711-539e35a1057e" name="Changes" comment="" />
+      <created>1669300733286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669300733286</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RimocziDaniel_JavaFxRestClientDolgozat$App.ic" NAME="App Coverage Results" MODIFIED="1669308164452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>hu.petrik.rimoczidaniel_javafxrestclientdolgozat.*</FILTER>
+    </SUITE>
+  </component>
+</project>
