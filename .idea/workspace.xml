@@ -4,30 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b1285bc-abf1-49f6-8711-539e35a1057e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/AutoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/InsertCarsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/RequestHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/Response.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/UpdateCarsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/auto-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/insert-cars-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/update-cars-view.fxml" afterDir="false" />
+    <list default="true" id="0b1285bc-abf1-49f6-8711-539e35a1057e" name="Changes" comment="Done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/petrik/rimoczidaniel_javafxrestclientdolgozat/Auto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +84,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669300733286</updated>
     </task>
+    <task id="LOCAL-00001" summary="Done">
+      <created>1669321442456</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669321442456</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +104,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/RimocziDaniel_JavaFxRestClientDolgozat$App.ic" NAME="App Coverage Results" MODIFIED="1669308164452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

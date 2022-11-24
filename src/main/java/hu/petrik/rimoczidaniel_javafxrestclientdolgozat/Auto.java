@@ -1,6 +1,7 @@
 package hu.petrik.rimoczidaniel_javafxrestclientdolgozat;
 
 import com.google.gson.annotations.Expose;
+import javafx.scene.control.Button;
 
 public class Auto {
     private int id;
