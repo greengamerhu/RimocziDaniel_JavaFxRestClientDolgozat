@@ -58,10 +58,10 @@ public class AutoController extends Controller {
         Response response = RequestHandler.get(App.BASE_URL);
         String content = response.getContent();
         Gson converter = new Gson();
-        Auto[] people = converter.fromJson(content, Auto[].class);
+        Auto[] autok = converter.fromJson(content, Auto[].class);
         carTable.getItems().clear();
-        for (Auto person : people) {
-            carTable.getItems().add(person);
+        for (Auto auto : autok) {
+            carTable.getItems().add(auto);
         }
     }
 
